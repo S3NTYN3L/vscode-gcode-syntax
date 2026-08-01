@@ -129,6 +129,7 @@
                     ".tap",
                     ".xpi"
                 ],
+                "firstLine": "^\\uFEFF?\\s*%\\s*$",
                 "configuration": "./language/gcode-language.json"
             }
         ],
